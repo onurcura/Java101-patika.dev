@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/VucutKitleEndeksiHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManavKasaProgrami.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VucutKitleEndeksiHesaplama">
+  <component name="RunManager" selected="Application.ManavKasaProgrami">
     <configuration name="DaireDilimininAlaniniHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireDilimininAlaniniHesaplama" />
       <module name="Java101 patika.dev" />
@@ -43,8 +43,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KdvTutariHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KdvTutariHesaplama" />
+    <configuration name="ManavKasaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManavKasaProgrami" />
       <module name="Java101 patika.dev" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManavKasaProgrami" />
         <item itemvalue="Application.VucutKitleEndeksiHesaplama" />
         <item itemvalue="Application.DaireDilimininAlaniniHesaplama" />
         <item itemvalue="Application.Taksimetre" />
         <item itemvalue="Application.UcgenAlaniHesaplama" />
-        <item itemvalue="Application.KdvTutariHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680952383917</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Proje yapıldı.">
+      <created>1680953252044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680953252044</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

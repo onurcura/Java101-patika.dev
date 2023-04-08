@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Oluşturuldu.">
-      <change afterPath="$PROJECT_DIR$/src/UcgenAlaniHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Taksimetre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UcgenAlaniHesaplama">
+  <component name="RunManager" selected="Application.Taksimetre">
     <configuration name="KdvTutariHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KdvTutariHesaplama" />
       <module name="Java101 patika.dev" />
@@ -51,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taksimetre" />
+      <module name="Java101 patika.dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UcgenAlaniHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UcgenAlaniHesaplama" />
       <module name="Java101 patika.dev" />
@@ -60,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Taksimetre" />
         <item itemvalue="Application.UcgenAlaniHesaplama" />
         <item itemvalue="Application.KdvTutariHesaplama" />
         <item itemvalue="Application.NotOrtalamasi" />
@@ -120,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680949319065</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Oluşturuldu.">
+      <created>1680950768346</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680950768346</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

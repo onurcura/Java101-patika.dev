@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/DaireDilimininAlaniniHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VucutKitleEndeksiHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DaireDilimininAlaniniHesaplama">
+  <component name="RunManager" selected="Application.VucutKitleEndeksiHesaplama">
     <configuration name="DaireDilimininAlaniniHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireDilimininAlaniniHesaplama" />
       <module name="Java101 patika.dev" />
@@ -46,13 +45,6 @@
     </configuration>
     <configuration name="KdvTutariHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KdvTutariHesaplama" />
-      <module name="Java101 patika.dev" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NotOrtalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotOrtalamasi" />
       <module name="Java101 patika.dev" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VucutKitleEndeksiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VucutKitleEndeksiHesaplama" />
+      <module name="Java101 patika.dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VucutKitleEndeksiHesaplama" />
         <item itemvalue="Application.DaireDilimininAlaniniHesaplama" />
         <item itemvalue="Application.Taksimetre" />
         <item itemvalue="Application.UcgenAlaniHesaplama" />
         <item itemvalue="Application.KdvTutariHesaplama" />
-        <item itemvalue="Application.NotOrtalamasi" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680951451344</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Proje yapıldı.">
+      <created>1680952383917</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680952383917</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

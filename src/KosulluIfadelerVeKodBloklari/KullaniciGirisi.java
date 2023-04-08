@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class KullaniciGirisi {
     public static void main(String[] args) {
+        //Değişkenlerimizi tanımladık. Kullanıcıya giriş yaptırdık.
         String userName, password, password1;
         Scanner inp = new Scanner(System.in);
 
@@ -11,7 +12,7 @@ public class KullaniciGirisi {
         userName = inp.nextLine();
         System.out.print("Şifreniz : ");
         password = inp.nextLine();
-
+        //patika-java123 doğru kabul edip yanlış şifre girmesi halinda şifre değiştirme seçeneği koyduk.(Aynı olamaz.)
         if (userName.equals("patika")) {
             if (password.equals("java123")) {
                 System.out.println("Giriş Yaptınız !");

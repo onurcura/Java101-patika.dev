@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class VucutKitleEndeksiHesaplama {
     public static void main(String[] args) {
         //Değişkenleri tanımladık.
-        double size,weight,indeks;
+        double size, weight, indeks;
         Scanner inp = new Scanner(System.in);
 
         //Kullanıcıdan boy ve kiloyu aldık.
@@ -15,7 +15,7 @@ public class VucutKitleEndeksiHesaplama {
         weight = inp.nextDouble();
 
         //Vücut kitle indeksiniz hesaplayıp yazdırdık.
-        indeks = weight/(size*size);
+        indeks = weight / (size * size);
         System.out.println("Vücut Kitle Endeksiniz : " + indeks);
 
     }

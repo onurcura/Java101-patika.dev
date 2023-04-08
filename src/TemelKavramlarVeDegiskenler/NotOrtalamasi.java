@@ -1,10 +1,11 @@
 package TemelKavramlarVeDegiskenler;
 
 import java.util.Scanner;
+
 public class NotOrtalamasi {
     public static void main(String[] args) {
         // Değişkenleri tanımladık.
-        int mat,fizik,kimya,turkce,tarih,muzik;
+        int mat, fizik, kimya, turkce, tarih, muzik;
         Scanner inp = new Scanner(System.in);
 
         //Kullanıcıdan verileri aldık.
@@ -22,9 +23,9 @@ public class NotOrtalamasi {
         muzik = inp.nextInt();
 
         // Ortalamayı hesaplayıp sınıf geçme durumuyla beraber çıkarttık.
-        double ort = (mat+fizik+kimya+turkce+tarih+muzik)/6.0;
-        System.out.println("Ortalamanız : "+ort);
-        System.out.println(ort>=60 ? "Sınıfı Geçtiniz!" : "Sınıfta Kaldınız!");
+        double ort = (mat + fizik + kimya + turkce + tarih + muzik) / 6.0;
+        System.out.println("Ortalamanız : " + ort);
+        System.out.println(ort >= 60 ? "Sınıfı Geçtiniz!" : "Sınıfta Kaldınız!");
 
     }
 }

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/SinifiGecmeDurumu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/EtkinlikÖnerme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,20 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SinifiGecmeDurumu">
+  <component name="RunManager" selected="Application.EtkinlikOnerme">
+    <configuration name="EtkinlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.EtkinlikOnerme" />
+      <module name="Java101 patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KosulluIfadelerVeKodBloklari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.HesapMakinesi" />
       <module name="Java101 patika.dev" />
@@ -82,20 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VucutKitleEndeksiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemelKavramlarVeDegiskenler.VucutKitleEndeksiHesaplama" />
-      <module name="Java101 patika.dev" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EtkinlikOnerme" />
         <item itemvalue="Application.SinifiGecmeDurumu" />
         <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.ManavKasaProgrami" />
-        <item itemvalue="Application.VucutKitleEndeksiHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680964675425</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Proje yapıldı.">
+      <created>1680982975171</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982975171</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

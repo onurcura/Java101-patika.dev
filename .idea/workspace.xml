@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Oluşturuldu.">
-      <change afterPath="$PROJECT_DIR$/src/KdvTutariHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UcgenAlaniHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KdvTutariHesaplama">
+  <component name="RunManager" selected="Application.UcgenAlaniHesaplama">
     <configuration name="KdvTutariHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KdvTutariHesaplama" />
       <module name="Java101 patika.dev" />
@@ -50,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UcgenAlaniHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UcgenAlaniHesaplama" />
+      <module name="Java101 patika.dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcgenAlaniHesaplama" />
         <item itemvalue="Application.KdvTutariHesaplama" />
         <item itemvalue="Application.NotOrtalamasi" />
       </list>
@@ -97,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680948141739</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Oluşturuldu.">
+      <created>1680949204127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680949204127</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Oluşturuldu.">
+      <created>1680949319065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680949319065</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

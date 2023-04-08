@@ -13,10 +13,10 @@ public class KdvTutariHesaplama {
         kdvTutar= tutar*kdv;
         kdvTutar2= tutar*kdv1;
         sonuc = tutar<1000 ? tutar+kdvTutar : tutar+kdvTutar2;
-        System.out.println("Tutar : " + tutar);
+        System.out.println("Tutar : " + tutar + " TL");
         System.out.print("KDV Tutarı : ");
-        System.out.println(tutar<1000 ? kdvTutar : kdvTutar2);
-        System.out.print("Toplam Tutar : " +sonuc);
+        System.out.println(tutar<1000 ? kdvTutar : kdvTutar2 + " TL");
+        System.out.print("Toplam Tutar : " +sonuc + " TL");
 
 
     }

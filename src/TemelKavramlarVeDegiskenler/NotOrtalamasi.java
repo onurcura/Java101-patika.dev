@@ -1,3 +1,5 @@
+package TemelKavramlarVeDegiskenler;
+
 import java.util.Scanner;
 public class NotOrtalamasi {
     public static void main(String[] args) {

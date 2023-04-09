@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/BurcBulmaIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/BurcBulmaSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/UcakBiletiFiyati.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BurcBulmaIfElse">
+}</component>
+  <component name="RunManager" selected="Application.UcakBiletiFiyati">
     <configuration name="BurcBulmaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.BurcBulmaIfElse" />
       <module name="Java101 patika.dev" />
@@ -90,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinifiGecmeDurumu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.SinifiGecmeDurumu" />
+    <configuration name="UcakBiletiFiyati" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.UcakBiletiFiyati" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBiletiFiyati" />
         <item itemvalue="Application.BurcBulmaIfElse" />
         <item itemvalue="Application.BurcBulmaSwitchCase" />
         <item itemvalue="Application.SayilariSiralama" />
         <item itemvalue="Application.EtkinlikOnerme" />
-        <item itemvalue="Application.SinifiGecmeDurumu" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680985852183</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Proje yapıldı.">
+      <created>1680990432239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680990432239</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

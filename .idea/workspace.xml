@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/CinZodyagi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/ArtikYilHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CinZodyagi">
+  <component name="RunManager" selected="Application.ArtikYilHesaplama">
+    <configuration name="ArtikYilHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.ArtikYilHesaplama" />
+      <module name="Java101 patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KosulluIfadelerVeKodBloklari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BurcBulmaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.BurcBulmaIfElse" />
       <module name="Java101 patika.dev" />
@@ -76,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SayilariSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.SayilariSiralama" />
-      <module name="Java101 patika.dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KosulluIfadelerVeKodBloklari.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UcakBiletiFiyati" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.UcakBiletiFiyati" />
       <module name="Java101 patika.dev" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArtikYilHesaplama" />
         <item itemvalue="Application.CinZodyagi" />
         <item itemvalue="Application.UcakBiletiFiyati" />
         <item itemvalue="Application.BurcBulmaIfElse" />
         <item itemvalue="Application.BurcBulmaSwitchCase" />
-        <item itemvalue="Application.SayilariSiralama" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681048802470</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Proje yapıldı.">
+      <created>1681049426324</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681049426324</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

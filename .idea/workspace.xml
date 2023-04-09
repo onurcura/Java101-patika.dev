@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/CiftSayiBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/CiftVe4KatiBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Donguler/CiftSayiBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Donguler/CiftSayiBulma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CiftSayiBulma">
+  <component name="RunManager" selected="Application.CiftVe4KatiBulma">
     <configuration name="ArtikYilHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.ArtikYilHesaplama" />
       <module name="Java101 patika.dev" />
@@ -50,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BurcBulmaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.BurcBulmaIfElse" />
+    <configuration name="CiftSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.CiftSayiBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KosulluIfadelerVeKodBloklari.*" />
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CiftSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.CiftSayiBulma" />
+    <configuration name="CiftVe4KatiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.CiftVe4KatiBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CiftVe4KatiBulma" />
         <item itemvalue="Application.CiftSayiBulma" />
         <item itemvalue="Application.ArtikYilHesaplama" />
         <item itemvalue="Application.CinZodyagi" />
         <item itemvalue="Application.UcakBiletiFiyati" />
-        <item itemvalue="Application.BurcBulmaIfElse" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681050323318</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Proje yapıldı.">
+      <created>1681069224274</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681069224274</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

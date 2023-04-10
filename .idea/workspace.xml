@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/ArmstrongSayilariBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/nBasamakliArmstrongSayilar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArmstrongSayilariBulma">
+  <component name="RunManager" selected="Application.nBasamakliArmstrongSayilar">
     <configuration name="ArmstrongSayilariBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.ArmstrongSayilariBulma" />
       <module name="Java101 patika.dev" />
@@ -52,19 +52,6 @@
     </configuration>
     <configuration name="BasamakSayilariniToplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.BasamakSayilariniToplama" />
-      <module name="Java101 patika.dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Donguler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DortVeBesinKuvvetleriniBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.DortVeBesinKuvvetleriniBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nBasamakliArmstrongSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.nBasamakliArmstrongSayilar" />
+      <module name="Java101 patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Donguler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nBasamakliArmstrongSayilar" />
         <item itemvalue="Application.ArmstrongSayilariBulma" />
         <item itemvalue="Application.BasamakSayilariniToplama" />
         <item itemvalue="Application.UsluSayi" />
         <item itemvalue="Application.Kombinasyon" />
-        <item itemvalue="Application.DortVeBesinKuvvetleriniBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681128473480</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Proje yapıldı.">
+      <created>1681129933339</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681129933339</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

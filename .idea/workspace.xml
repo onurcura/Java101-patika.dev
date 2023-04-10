@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/MinMaxSayiBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/MukemmelSayiBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinMaxSayiBulma">
+  <component name="RunManager" selected="Application.MukemmelSayiBulma">
     <configuration name="AtmProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.AtmProjesi" />
       <module name="Java101 patika.dev" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonikSayiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.HarmonikSayiHesaplama" />
+    <configuration name="MinMaxSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.MinMaxSayiBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.MinMaxSayiBulma" />
+    <configuration name="MukemmelSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.MukemmelSayiBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MukemmelSayiBulma" />
         <item itemvalue="Application.MinMaxSayiBulma" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.AtmProjesi" />
         <item itemvalue="Application.YildizlarlaElmas" />
-        <item itemvalue="Application.HarmonikSayiHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681162224099</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Proje yapıldı.">
+      <created>1681163306462</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681163306462</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

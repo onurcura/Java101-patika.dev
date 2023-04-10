@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/BasamakSayilariniToplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/ArmstrongSayilariBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BasamakSayilariniToplama">
-    <configuration name="BasamakSayilariniToplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.BasamakSayilariniToplama" />
+  <component name="RunManager" selected="Application.ArmstrongSayilariBulma">
+    <configuration name="ArmstrongSayilariBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.ArmstrongSayilariBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CiftVe4KatiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.CiftVe4KatiBulma" />
+    <configuration name="BasamakSayilariniToplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.BasamakSayilariniToplama" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongSayilariBulma" />
         <item itemvalue="Application.BasamakSayilariniToplama" />
         <item itemvalue="Application.UsluSayi" />
         <item itemvalue="Application.Kombinasyon" />
         <item itemvalue="Application.DortVeBesinKuvvetleriniBulma" />
-        <item itemvalue="Application.CiftVe4KatiBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681075198548</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Proje yapıldı.">
+      <created>1681128473480</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681128473480</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

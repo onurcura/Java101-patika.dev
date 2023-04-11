@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/FibonacciSerisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metotlar/PalindromSayilar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciSerisi">
+  <component name="RunManager" selected="Application.PalindromSayilar">
     <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.AsalSayiBulma" />
       <module name="Java101 patika.dev" />
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.MinMaxSayiBulma" />
+    <configuration name="MukemmelSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.MukemmelSayiBulma" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MukemmelSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.MukemmelSayiBulma" />
+    <configuration name="PalindromSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metotlar.PalindromSayilar" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Donguler.*" />
+          <option name="PATTERN" value="Metotlar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromSayilar" />
         <item itemvalue="Application.FibonacciSerisi" />
         <item itemvalue="Application.AsalSayiBulma" />
         <item itemvalue="Application.YildizlarlaTersUcgen" />
         <item itemvalue="Application.MukemmelSayiBulma" />
-        <item itemvalue="Application.MinMaxSayiBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681167212927</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Proje yapıldı.">
+      <created>1681167935705</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1681167935705</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

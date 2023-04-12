@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Metotlar/DeseneGoreMetot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/OgrenciNotSistemi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +39,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DeseneGoreMetot">
-    <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.AsalSayiBulma" />
+  <component name="RunManager" selected="Application.OgrenciNotSistemi">
+    <configuration name="AsalSayiBulmaDongu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.AsalSayiBulmaDongu" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -63,19 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GelismisHesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Metotlar.GelismisHesapMakinesi" />
-      <module name="Java101 patika.dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Metotlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Metotlar.AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Metotlar.AsalSayiBulma" />
       <module name="Java101 patika.dev" />
@@ -89,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsHesabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Metotlar.UsHesabi" />
+    <configuration name="OgrenciNotSistemi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Siniflar.OgrenciNotSistemi.OgrenciNotSistemi" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Metotlar.*" />
+          <option name="PATTERN" value="Siniflar.OgrenciNotSistemi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Test" />
+      <module name="Java101 patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Donguler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OgrenciNotSistemi" />
+        <item itemvalue="Application.AsalSayiBulmaDongu" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.DeseneGoreMetot" />
         <item itemvalue="Application.Metotlar.AsalSayiBulma" />
-        <item itemvalue="Application.AsalSayiBulma" />
-        <item itemvalue="Application.UsHesabi" />
-        <item itemvalue="Application.GelismisHesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +442,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681306340698</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Proje yapıldı.">
+      <created>1681308473510</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681308473510</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Proje yapıldı.">
+      <created>1681310690686</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1681310690686</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

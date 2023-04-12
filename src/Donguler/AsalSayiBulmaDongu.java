@@ -2,7 +2,7 @@ package Donguler;
 
 import java.util.Scanner;
 
-public class AsalSayiBulma {
+public class AsalSayiBulmaDongu {
     public static void main(String[] args) {
         int num;
         Scanner inp = new Scanner(System.in);

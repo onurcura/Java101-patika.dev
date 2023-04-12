@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Metotlar/AsalSayiBulma.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Metotlar/DeseneGoreMetot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -37,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Metotlar.AsalSayiBulma">
+  <component name="RunManager" selected="Application.DeseneGoreMetot">
     <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.AsalSayiBulma" />
       <module name="Java101 patika.dev" />
@@ -105,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeseneGoreMetot" />
         <item itemvalue="Application.Metotlar.AsalSayiBulma" />
         <item itemvalue="Application.AsalSayiBulma" />
-        <item itemvalue="Application.DeseneGoreMetot" />
         <item itemvalue="Application.UsHesabi" />
         <item itemvalue="Application.GelismisHesapMakinesi" />
       </list>
@@ -433,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681254052612</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Proje yapıldı.">
+      <created>1681306340698</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1681306340698</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

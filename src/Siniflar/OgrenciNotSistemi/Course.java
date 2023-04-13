@@ -15,7 +15,12 @@ public class Course {
 
     }
     void addTeacher(Teacher teacher){
-        this.teacher=teacher;
+        if (this.prefix.equals(teacher.branch)){
+            this.teacher=teacher;
+        }else{
+            System.out.println(teacher + " Bu Dersi Veremez.");
+        }
+
     }
     void printTeacher(){
         System.out.println("ADI SOYADI : "+this.teacher.name+"\nBRANŞI : "+this.teacher.branch+"\nNO : "+this.teacher.mpno);

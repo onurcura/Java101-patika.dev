@@ -33,17 +33,29 @@ public class Student {
     }
     void isPass(){
         this.avarage = (this.c1.note+this.c2.note+this.c3.note)/3.0;
+        calcAvarage();
         if(this.avarage >=55){
             System.out.println("Sınıfı Geçtiniz !");
         }else{
             System.out.println("Sınıfta Kaldınız !");
         }
-        printNote();
+    }
+    void calcAvarage(){
+        this.avarage = (this.c1.note+this.c2.note+this.c3.note)/3.0;
+        System.out.println("Ortalamanız : " + this.avarage);
     }
     void printNote(){
         System.out.println(this.c1.name+" : "+this.c1.note);
         System.out.println(this.c2.name+" : "+this.c2.note);
         System.out.println(this.c3.name+" : "+this.c3.note);
-        System.out.println("Ortalamanız : "+ this.avarage);
+    }
+    void certificate(){
+        if (this.avarage<70.0){
+            System.out.println("Belge Kazanamadınız.");
+        }else if (this.avarage<85){
+            System.out.println("Teşekkür Belgesi Kazandınız.");
+        }else if (this.avarage<=100){
+            System.out.println("Takdir Belgesi Kazandınız.");
+        }
     }
 }

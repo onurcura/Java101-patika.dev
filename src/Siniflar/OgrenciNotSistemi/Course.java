@@ -6,13 +6,15 @@ public class Course {
     String code;
     String prefix;
     int note;
+    int note1;
+
 
     Course(String name,String code,String prefix){
         this.name=name;
         this.code=code;
         this.prefix=prefix;
         this.note=0;
-
+        this.note1=0;
     }
     void addTeacher(Teacher teacher){
         if (this.prefix.equals(teacher.branch)){

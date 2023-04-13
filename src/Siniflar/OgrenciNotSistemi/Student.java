@@ -31,8 +31,19 @@ public class Student {
             this.c3.note=note3;
         }
     }
+    void addBulkOpinionNotes(int note1,int note2,int note3){
+        if (note1>=0 && note1<=100){
+            this.c1.note1=note1;
+        }
+        if (note2>=0 && note2<=100){
+            this.c2.note1=note2;
+        }
+        if (note3>=0 && note3<=100){
+            this.c3.note1=note3;
+        }
+    }
     void isPass(){
-        this.avarage = (this.c1.note+this.c2.note+this.c3.note)/3.0;
+        this.avarage = ((this.c1.note+this.c2.note+this.c3.note)*0.8+(this.c1.note1+this.c2.note1+this.c3.note1)*0.2)/3.0;
         calcAvarage();
         if(this.avarage >=55){
             System.out.println("Sınıfı Geçtiniz !");
@@ -41,7 +52,7 @@ public class Student {
         }
     }
     void calcAvarage(){
-        this.avarage = (this.c1.note+this.c2.note+this.c3.note)/3.0;
+        this.avarage = ((this.c1.note+this.c2.note+this.c3.note)*0.8+(this.c1.note1+this.c2.note1+this.c3.note1)*0.2)/3.0;
         System.out.println("Ortalamanız : " + this.avarage);
     }
     void printNote(){

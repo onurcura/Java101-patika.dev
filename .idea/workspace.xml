@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/BoksOyunu/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/BoksOyunu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Siniflar/BoksOyunu/Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/OgrenciNotSistemi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/OgrenciNotSistemi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OgrenciNotSistemi">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AsalSayiBulmaDongu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.AsalSayiBulmaDongu" />
       <module name="Java101 patika.dev" />
@@ -53,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeseneGoreMetot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Metotlar.DeseneGoreMetot" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Siniflar.BoksOyunu.Main" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Metotlar.*" />
+          <option name="PATTERN" value="Siniflar.BoksOyunu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.OgrenciNotSistemi" />
         <item itemvalue="Application.UcakBiletiFiyati" />
         <item itemvalue="Application.AsalSayiBulmaDongu" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.DeseneGoreMetot" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680946406905</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Oluşturuldu.">
-      <created>1680946616499</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1680946616499</updated>
     </task>
     <task id="LOCAL-00002" summary="Oluşturuldu.">
       <created>1680946750417</created>
@@ -470,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681419772083</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Proje yapıldı.">
+      <created>1681425630453</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1681425630454</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

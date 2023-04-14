@@ -18,20 +18,32 @@ public class Fighter {
     }
 
     int hit(Fighter foe) {
-        System.out.println(this.name + " --> " + foe.name + " " + this.damage + " Hasar Vurdu.");
         if (foe.isDodge()){
+            System.out.println(this.name + " --> " + foe.name + " " + this.damage + " Hasar Vurdu.");
             System.out.println(foe.name + " Blokladı !");
             return foe.health;
+        }
+        if (isCrit()){
+            System.out.println(this.name + " Çok Hızlı ! ");
+            System.out.println(this.name + " --> " + foe.name + " " + this.damage + " Hasar Vurdu.");
+            System.out.println(this.name + " --> " + foe.name + " " + this.damage + " Hasar Vurdu.");
+            return foe.health - ( 2* this.damage);
+
         }
         if ((foe.health-this.damage)<0){
             return 0;
         }
+        System.out.println(this.name + " --> " + foe.name + " " + this.damage + " Hasar Vurdu.");
         return foe.health - this.damage;
     }
 
     boolean isDodge(){
         double randomNumber = Math.random() * 100;
         return randomNumber <=this.dodge;
+    }
+    boolean isCrit(){
+        double randomNumber = Math.random() *100;
+        return randomNumber <=this.crit;
     }
 
 }

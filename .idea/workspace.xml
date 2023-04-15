@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Siniflar/MaasHesaplayici/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Siniflar/MaasHesaplayici/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diziler/DizilerdeHarmonikOrtalama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +36,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Siniflar.MaasHesaplayici.Main">
-    <configuration name="AsalSayiBulmaDongu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.AsalSayiBulmaDongu" />
+  <component name="RunManager" selected="Application.DizilerdeHarmonikOrtalama">
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemelKavramlarVeDegiskenler.Deneme" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Donguler.*" />
+          <option name="PATTERN" value="TemelKavramlarVeDegiskenler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DizilerdeHarmonikOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diziler.DizilerdeHarmonikOrtalama" />
+      <module name="Java101 patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diziler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcakBiletiFiyati" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KosulluIfadelerVeKodBloklari.UcakBiletiFiyati" />
-      <module name="Java101 patika.dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KosulluIfadelerVeKodBloklari.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DizilerdeHarmonikOrtalama" />
+        <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.Siniflar.MaasHesaplayici.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OgrenciNotSistemi" />
-        <item itemvalue="Application.UcakBiletiFiyati" />
-        <item itemvalue="Application.AsalSayiBulmaDongu" />
       </list>
     </recent_temporary>
   </component>
@@ -124,20 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680946406905</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Oluşturuldu.">
-      <created>1680949204127</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1680949204127</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Oluşturuldu.">
-      <created>1680949319065</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1680949319065</updated>
     </task>
     <task id="LOCAL-00007" summary="Oluşturuldu.">
       <created>1680950768346</created>
@@ -468,7 +453,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681488380659</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Proje yapıldı.">
+      <created>1681504778815</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1681504778815</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Proje yapıldı.">
+      <created>1681504949891</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1681504949891</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Diziler/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,27 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680946406905</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Proje yapıldı.">
-      <created>1680955752169</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1680955752169</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Proje yapıldı.">
-      <created>1680959974577</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1680959974577</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Proje yapıldı.">
-      <created>1680964675425</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1680964675425</updated>
     </task>
     <task id="LOCAL-00016" summary="Proje yapıldı.">
       <created>1680982975171</created>
@@ -467,7 +445,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681597032238</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Proje yapıldı.">
+      <created>1681647549281</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1681647549281</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Proje yapıldı.">
+      <created>1681647648791</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1681647648792</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Proje yapıldı.">
+      <created>1681647675634</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1681647675635</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

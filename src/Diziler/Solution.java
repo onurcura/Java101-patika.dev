@@ -1,42 +1,37 @@
 package Diziler;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Solution {
-    static boolean canWin(int leap,int[] game) {
-        int n = 0;
-        while (true) {
-            if(game[n+leap]==0){
-                n+=leap;
-            }else{
-                n-=leap;
-                break;
-            }
-        }
-
-        if ((n == game.length - 1) || (n + leap) >= game.length - 1) {
-            return true;
-        } else {
+    public static boolean canWin(int leap,int[] game,int index) {
+        if(index<0 || game[index]==1){
             return false;
         }
+        if(index+1 > game.length -1 || index + leap >=game.length){
+            return true;
+        }
+        game[index]=1;
+        return canWin(leap,game,index-1) || canWin(leap,game,index+1) || canWin(leap,game,index + leap);
     }
 
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         int num = inp.nextInt();
-        for (int i = 1; i <= num; i++) {
+        while(num-- > 0){
             int num1 = inp.nextInt();
             int leap = inp.nextInt();
             int[] game = new int[num1];
-            for (int j = 0; j < game.length; j++) {
-                game[j] = inp.nextInt();
+            for (int i = 0; i < game.length; i++) {
+                game[i] = inp.nextInt();
             }
-            if (canWin(leap, game)) {
+            if (canWin(leap, game,0)) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
             }
 
+
         }
+
     }
 }

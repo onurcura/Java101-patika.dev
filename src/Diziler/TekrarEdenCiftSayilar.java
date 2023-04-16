@@ -21,3 +21,30 @@ public class TekrarEdenCiftSayilar {
         }
     }
 }
+
+
+/*
+if (game[n + 1] == 0) {
+                n++;
+                if (n == game.length - 1) {
+                    break;
+                }
+            } else {
+                break;
+            }
+ */
+
+/*for(int i = 0;i<game.length;){
+                 n = i;
+                 if (game[n+1]==0){
+                     i++;
+                 }else if(game[n+leap]==0){
+                     i +=leap;
+                 }else{
+                     break;
+                 }
+
+            }
+            break;
+        000110011011
+ */

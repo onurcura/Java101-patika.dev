@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/Diger/PalindromikKelimeBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MayinTarlasi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MayinTarlasi/MineSweeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +37,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalindromikKelimeBulma">
-    <configuration name="DizidekiElemanlarinFrekansi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diziler.DizidekiElemanlarinFrekansi" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MayinTarlasi.Main" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Diziler.*" />
+          <option name="PATTERN" value="MayinTarlasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,15 +51,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrisinTranspozunuBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diziler.MatrisinTranspozunuBulma" />
+    <configuration name="MayinTarlasiOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MayinTarlasiOyunu" />
       <module name="Java101 patika.dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Diziler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diziler.Solution" />
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diger.deneme" />
       <module name="Java101 patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Diziler.*" />
+          <option name="PATTERN" value="Diger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MayinTarlasiOyunu" />
+        <item itemvalue="Application.deneme" />
         <item itemvalue="Application.PalindromikKelimeBulma" />
         <item itemvalue="Application.SayiTahminOyunu" />
-        <item itemvalue="Application.MatrisinTranspozunuBulma" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.DizidekiElemanlarinFrekansi" />
       </list>
     </recent_temporary>
   </component>
@@ -123,13 +118,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680946406905</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Proje yapıldı.">
-      <created>1681049426324</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1681049426324</updated>
     </task>
     <task id="LOCAL-00022" summary="Proje yapıldı.">
       <created>1681050323318</created>
@@ -467,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681748571038</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Proje yapıldı.">
+      <created>1681753177614</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1681753177614</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

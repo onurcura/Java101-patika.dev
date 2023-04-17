@@ -97,7 +97,6 @@ public class MineSweeper {
         for (int i = 1; i <= this.numMines; i++) {
             Random rand = new Random();
             int k = rand.nextInt(this.mineSw.length);
-            Random random = new Random();
             int l = rand.nextInt(this.mineSw[0].length);
             this.mineSw[k][l] = "*";
 

@@ -52,32 +52,37 @@ public class MineSweeper {
             System.out.println("Lütfen hamlenizi yapınız. (Örn 0 1)");
             int i = scan.nextInt();
             int j = scan.nextInt();
-            if (!mineSw[i][j].equals("*")) {
-                int counter = 0;
-                for (int k = i - 1; k <= i + 1; k++) {
-                    if (k < 0) {
-                        k = i;
-                    } else if (k > mineSw.length - 1) {
-                        break;
-                    }
-                    for (int l = j - 1; l <= j + 1; l++) {
-                        if (l < 0) {
-                            l = j;
-                        }
-                        if (l > mineSw[0].length - 1) {
+            if ((i >= 0 && i < this.mineSw.length) && (j >= 0 && j < this.mineSw[0].length)) {
+                if (!mineSw[i][j].equals("*")) {
+                    int counter = 0;
+                    for (int k = i - 1; k <= i + 1; k++) {
+                        if (k < 0) {
+                            k = i;
+                        } else if (k > mineSw.length - 1) {
                             break;
                         }
-                        if (mineSw[k][l].equals("*")) {
-                            counter++;
+                        for (int l = j - 1; l <= j + 1; l++) {
+                            if (l < 0) {
+                                l = j;
+                            }
+                            if (l > mineSw[0].length - 1) {
+                                break;
+                            }
+                            if (mineSw[k][l].equals("*")) {
+                                counter++;
+                            }
                         }
                     }
+                    mineSw1[i][j] = String.valueOf(counter);
+                    this.move++;
+                    move();
+                } else {
+                    System.out.println("Kaybettiniz !");
+                    run();
                 }
-                mineSw1[i][j] = String.valueOf(counter);
-                this.move++;
-                move();
             } else {
-                System.out.println("Kaybettiniz !");
-                run();
+                System.out.println("Hatalı bir değer girdiniz. Tekrar deneyiniz.");
+                move();
             }
         }
 

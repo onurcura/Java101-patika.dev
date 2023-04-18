@@ -74,6 +74,7 @@ public class MineSweeper {
                         }
                     }
                     mineSw1[i][j] = String.valueOf(counter);
+                    mineSw[i][j] = String.valueOf(counter);
                     this.move++;
                     move();
                 } else {
@@ -89,12 +90,22 @@ public class MineSweeper {
     }
 
     void print() {
-        for (String[] i : this.mineSw1) {
-            for (String j : i) {
-                System.out.print(j + " ");
+        if (this.move == (this.x * this.y) - this.numMines) {
+            for (String[] i : this.mineSw) {
+                for (String j : i) {
+                    System.out.print(j + " ");
+                }
+                System.out.println();
             }
-            System.out.println();
+        } else {
+            for (String[] i : this.mineSw1) {
+                for (String j : i) {
+                    System.out.print(j + " ");
+                }
+                System.out.println();
+            }
         }
+
     }
 
     void generateMines() {

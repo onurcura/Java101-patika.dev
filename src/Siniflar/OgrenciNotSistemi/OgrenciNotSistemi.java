@@ -72,8 +72,9 @@ public class OgrenciNotSistemi {
                                 s.isPass();
                                 break;
                         }
-
                     }
+
+
 
                     break;
                 case 2:

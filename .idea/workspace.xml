@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0137e46f-9583-433b-b4a3-15e26f463ea7" name="Changes" comment="Proje yapıldı.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MayinTarlasi/MineSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MayinTarlasi/MineSweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/OgrenciNotSistemi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Siniflar/OgrenciNotSistemi/OgrenciNotSistemi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +70,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SayiTahminOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diger.SayiTahminOyunu" />
+    <configuration name="deneme (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme" />
       <module name="Java101 patika.dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Diger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,10 +93,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.deneme (1)" />
         <item itemvalue="Application.MayinTarlasiOyunu" />
         <item itemvalue="Application.deneme" />
         <item itemvalue="Application.PalindromikKelimeBulma" />
-        <item itemvalue="Application.SayiTahminOyunu" />
       </list>
     </recent_temporary>
   </component>
@@ -117,13 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680946406905</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Proje yapıldı.">
-      <created>1681074166793</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1681074166793</updated>
     </task>
     <task id="LOCAL-00026" summary="Proje yapıldı.">
       <created>1681074787646</created>
@@ -461,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681822435336</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Proje yapıldı.">
+      <created>1681823217460</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1681823217460</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
